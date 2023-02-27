@@ -1,0 +1,51 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+
+form {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+#sub1 {
+    width: 30%;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#sub1:hover {
+    background-color: red;
+    color: aliceblue;
+    opacity: 10px;
+    margin: auto;
+    margin-top: 15px;
+
+
+}
+
+#text1 {
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#email1 {
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#message1 {
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+input {
+    border-radius: 10px;
+}
