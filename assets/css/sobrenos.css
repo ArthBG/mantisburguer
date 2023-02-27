@@ -37,6 +37,7 @@ section {
     box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     margin-top: 70px;
     
+    
 }
 #art02{
     margin-top: 60px;
@@ -49,5 +50,15 @@ section {
 a {
     text-decoration: none;
 color: black;
+
+}
+footer{
+    width: 100%;
+    bottom: 0;
+
+    margin-bottom: -5px;
+
+}
+header{
 
 }
