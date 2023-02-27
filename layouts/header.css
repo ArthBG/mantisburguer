@@ -64,6 +64,12 @@ margin: auto;
     
 }
 
-img:hover {
+#img2:hover {
+    background-color: whitesmoke;
+}
+#img3:hover {
+    background-color: whitesmoke;
+}
+#img4:hover {
     background-color: whitesmoke;
 }
