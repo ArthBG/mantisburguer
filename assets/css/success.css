@@ -1,6 +1,7 @@
 body {
     text-align: center;
     margin: auto;
+    background-color: wheat;
 }
 form {
     margin: auto;
@@ -26,4 +27,10 @@ form {
 }
 #img1 {
     margin: auto;
+}
+footer{
+    width: 100%;
+    margin-bottom: -5px;
+    position: fixed;
+    bottom: 0;
 }

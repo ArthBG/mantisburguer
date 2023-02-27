@@ -53,6 +53,7 @@ header{
 }
 footer{
     width: 100%;
+<<<<<<< HEAD
     margin: 0;
     bottom: 0;
     padding: 0;
@@ -76,4 +77,9 @@ abertura{
     -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
     box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
     border-radius: 10px;
+=======
+}
+#if1{
+    margin-bottom: -5;
+>>>>>>> a796af583680b195e3543f0d88932d993c64a507
 }
