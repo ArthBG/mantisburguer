@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    bottom: 0;
+ position: fixed;
+ width: 100%;
+}
+footer{
+    
+    background-color: red;
+    
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0;
+    
+}
+#pa1{
+    text-align: center;
+    color: whitesmoke;
+}
+section{
+    text-align: center;
+}

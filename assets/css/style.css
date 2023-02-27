@@ -1,0 +1,52 @@
+#ha1{
+    font-family: Arial;
+    text-align: center;
+}
+#pa1{
+    text-align: center;
+}
+body{
+    background-color: wheat;
+    margin: 0px;
+   
+}
+article{
+    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+-moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+border-radius: 10px;
+height: 400px;
+border-left: 5px red;
+border-style: solid;
+border-color: red;
+}
+caixa{
+    display: flex;
+    margin: 20px;
+   
+}
+container{
+    padding-left: 8px;
+}
+aside{
+    display: flex;
+    background-color: wheat;
+}
+portas{
+    margin-left: 60px;
+}
+#if1{
+    margin: 0%;
+}
+header{
+    width: 100%;
+    margin: 0;
+    padding: 0%;
+}
+footer{
+    width: 100%;
+    margin: 0;
+    bottom: 0;
+    padding: 0;
+
+}

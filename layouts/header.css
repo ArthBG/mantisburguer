@@ -1,0 +1,69 @@
+.container {
+    background-color: red;
+    text-decoration: none;
+    justify-content: space-between;
+    text-align: center;     
+}
+
+header {
+    position: fixed;
+    color: white;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+#contato {
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+
+#sobrenos {
+    padding-top: px;
+}
+
+nav li {
+    text-decoration: none;
+    margin: 0 5px;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+
+}
+
+nav {
+margin: auto;
+
+}
+#logo{
+    padding-left: 26px;
+    padding-top: 2px;
+}
+#menu:hover{
+    text-decoration: none;
+    
+}
+#sobrenos:hover{
+    text-decoration: none;
+    
+}
+#contato:hover{
+    text-decoration: none;
+    
+}
+
+img:hover {
+    background-color: whitesmoke;
+}

@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-color: wheat;
+}
+form {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.container {
+    margin: auto;
+}
+#submit1 {
+
+    width: 30%;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}
+#submit1:hover {
+    background-color: red;
+    color: white;
+    opacity: 10px;
+}
+#img1 {
+    margin: auto;
+}
+#if2{
+    margin-bottom: 0;
+}
