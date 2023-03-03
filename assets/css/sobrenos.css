@@ -51,3 +51,23 @@ a {
 color: black;
 
 }
+#if2{
+    margin-bottom: -5px;
+    width: 100%;
+    
+}
+footer{
+    width: 100%;
+}
+header {
+    color: white;
+    width: 100%;
+    text-align: center;
+
+
+}
+#if1{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
