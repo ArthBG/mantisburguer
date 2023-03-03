@@ -48,8 +48,7 @@ portas {
     width: 33%;
     margin: 10px;
     border-radius: 10px;
-    border-left: 5px red;
-    border-style: solid;
+    border-left-style: solid;
     border-color: red;
 }
 
