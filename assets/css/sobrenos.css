@@ -2,6 +2,7 @@ body {
     text-align: center;
     background-color: wheat;
 }
+
 #img01 {
     -webkit-box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
@@ -12,20 +13,21 @@ body {
 article {
     background-color: rgba(246, 187, 99, 0.763);
     border-radius: 15px;
-    margin-bottom: 30px;
+
 }
 
-#art01{
+#art01 {
     margin-top: 60px;
 }
 
 #sec01 {
-    background-color:  rgb(249, 232, 212);
+    background-color: rgb(249, 232, 212);
     width: 1100px;
     height: 200px;
     margin: auto;
     margin-top: 60px;
 }
+
 section {
     background-color: rgb(249, 232, 212);
     width: 330px;
@@ -36,41 +38,49 @@ section {
     -moz-box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     margin-top: 70px;
-    
-    
+    border: solid;
+    border-left-color: brown;
+    border-left: 30px;
+
+
+
 }
-#art02{
+
+#art02 {
     margin-top: 60px;
     text-align: center;
-    height: 1200px;
 }
 
 #div_title {
     display: flex;
 }
+
 a {
     text-decoration: none;
-color: black;
+    color: black;
+
 
 }
-footer{
+
+footer {
     width: 100%;
     bottom: 0;
 
     margin-bottom: -5px;
 
 }
-header{
 
-}
-#if2{
+
+#if2 {
     margin-bottom: -5px;
     width: 100%;
-    
+
 }
-footer{
+
+footer {
     width: 100%;
 }
+
 header {
     color: white;
     width: 100%;
@@ -78,8 +88,16 @@ header {
 
 
 }
-#if1{
+
+#if1 {
     width: 100%;
     margin: 0;
     padding: 0;
+}
+
+#ifr1 {
+    width: 100%;
+    margin: -8px;
+
+
 }

@@ -22,7 +22,7 @@ border-color: red;
 }
 caixa{
     display: flex;
-    margin: 20px;
+    
    
 }
 container{
@@ -35,14 +35,17 @@ aside{
     background-color: wheat;
     padding-left: 20px;
     padding-right: 20px;
+    
 }
 portas{
     width: 33%;
-    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-    -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-    box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    margin: 10px;
     border-radius: 10px;
+    border-left: 5px red;
+    border-style: solid;
+    border-color: red;
 }
+
 #if1{
     margin: 0%;
 }
@@ -62,7 +65,6 @@ footer{
 #pa1{
  
  border-radius: 10px;
-  height: 390px;
   margin-top: 10px;
 }
 #pa2{
@@ -77,9 +79,17 @@ abertura{
     -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
     box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
     border-radius: 10px;
+<<<<<<< HEAD
 =======
 }
 #if1{
     margin-bottom: -5;
 >>>>>>> a796af583680b195e3543f0d88932d993c64a507
 }
+=======
+    
+}
+#if1{
+    margin-bottom: -5px;
+}
+>>>>>>> 7087471a808cfec193ac1452d1c4ab8e0d14ab7f
