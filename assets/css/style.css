@@ -9,7 +9,7 @@
 
 body {
     background-color: wheat;
-    margin: 0px;
+    margin: 0;
 
 }
 
@@ -22,26 +22,24 @@ article {
     border-left-style: solid;
     border-color: red;
     border-width: 10px;
-    margin: 15px;
+    margin: 10px;
 }
 
 caixa {
     display: flex;
-
-
 }
 
 container {
-    padding-left: 8px;
+    padding-left: 4px;
 }
 
 aside {
-
-
+    width: 98%;
     display: flex;
     background-color: wheat;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
 
 }
 
@@ -58,22 +56,11 @@ portas {
 }
 
 #if1 {
-    margin: 0%;
-}
-
-header {
+    margin: 0px;
     width: 100%;
-    margin: 0;
-    padding: 0%;
 }
 
-footer {
-    width: 100%;
-    margin: 0;
-    bottom: 0;
-    padding: 0;
 
-}
 
 #pa1 {
 
@@ -97,12 +84,9 @@ abertura {
     margin: 10px;
 }
 
-#if1 {
-    margin-bottom: -5;
-    margin: 0;
-}
 
 #if2 {
     margin-bottom: -5px;
     margin-top: 0;
+    width: 99%;
 }
