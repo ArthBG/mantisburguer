@@ -22,6 +22,7 @@ article {
     border-left-style: solid;
     border-color: red;
     border-width: 10px;
+    margin: 15px;
 }
 
 caixa {
