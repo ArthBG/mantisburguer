@@ -22,7 +22,7 @@ border-color: red;
 }
 caixa{
     display: flex;
-    margin: 20px;
+    
    
 }
 container{
@@ -35,14 +35,17 @@ aside{
     background-color: wheat;
     padding-left: 20px;
     padding-right: 20px;
+    
 }
 portas{
     width: 33%;
-    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-    -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-    box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    margin: 10px;
     border-radius: 10px;
+    border-left: 5px red;
+    border-style: solid;
+    border-color: red;
 }
+
 #if1{
     margin: 0%;
 }
@@ -76,7 +79,23 @@ abertura{
     -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
     box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
     border-radius: 10px;
+    
 }
 #if1{
+<<<<<<< HEAD
     margin-bottom: -5px;
 }
+=======
+<<<<<<< HEAD
+    margin-bottom: -5;
+
+}
+=======
+<<<<<<< HEAD
+    margin-bottom: -5;
+=======
+    margin-bottom: -5px;
+>>>>>>> cabeba0aec842407fa4a0251b87655316cfb9e2d
+}
+>>>>>>> 9f4be6246be5548a6ab543bc5c86e79ccf68d13f
+>>>>>>> 55af8a058a810c34a3be29568b93b66a88ae1dd3
