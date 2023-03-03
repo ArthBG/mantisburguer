@@ -53,6 +53,7 @@ portas {
     -webkit-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
     -moz-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
     box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
+    border-width: 10px;
 }
 
 #if1 {
