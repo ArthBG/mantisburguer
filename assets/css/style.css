@@ -29,11 +29,19 @@ container{
     padding-left: 8px;
 }
 aside{
+   
+
     display: flex;
     background-color: wheat;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 portas{
-    margin-left: 60px;
+    width: 33%;
+    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    border-radius: 10px;
 }
 #if1{
     margin: 0%;
@@ -45,7 +53,33 @@ header{
 }
 footer{
     width: 100%;
+<<<<<<< HEAD
+    margin: 0;
+    bottom: 0;
+    padding: 0;
+
+}
+#pa1{
+ 
+ border-radius: 10px;
+  height: 390px;
+  margin-top: 10px;
+}
+#pa2{
+    background-color: blueviolet;
+}
+#pa3{
+    background-color: brown;
+}
+
+abertura{
+    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+    border-radius: 10px;
+=======
 }
 #if1{
     margin-bottom: -5;
+>>>>>>> a796af583680b195e3543f0d88932d993c64a507
 }
