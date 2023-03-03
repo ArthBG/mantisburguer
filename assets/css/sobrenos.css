@@ -82,40 +82,27 @@ a {
 
 footer {
     width: 100%;
+    margin: 0;
     bottom: 0;
-
-    margin-bottom: -5px;
+    padding: 0;
 
 }
 
 
 #if2 {
     margin-bottom: -5px;
-    width: 100%;
+    margin: 0;
 
-}
-
-footer {
-    width: 100%;
 }
 
 header {
     color: white;
     width: 100%;
-    text-align: center;
-
-
-}
-
-#if1 {
-    width: 100%;
     margin: 0;
     padding: 0;
+
+
 }
-
-#if1 {
-    width: 1216px;
-    margin: -8px;
-
-
+#if1{
+    margin: 0;
 }
