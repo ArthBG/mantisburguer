@@ -13,7 +13,11 @@ body {
 article {
     background-color: rgba(246, 187, 99, 0.763);
     border-radius: 15px;
+<<<<<<< HEAD
+    margin-bottom: 30px;
+=======
 
+>>>>>>> 55af8a058a810c34a3be29568b93b66a88ae1dd3
 }
 
 #art01 {
@@ -39,7 +43,13 @@ section {
     box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     margin-top: 70px;
 <<<<<<< HEAD
+<<<<<<< HEAD
+    border:solid;
+    border-left-color:brown ;
+    border-left: 30px;
+=======
     
+>>>>>>> 55af8a058a810c34a3be29568b93b66a88ae1dd3
 =======
 
 
