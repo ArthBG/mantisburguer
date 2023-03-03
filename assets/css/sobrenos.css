@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-color: wheat;
+    margin: 0;
+    padding: 0;
 }
 
 #img01 {
@@ -119,8 +121,5 @@ header {
 
 }
 #if2 {
-    width: 1216px;
-    margin: -8px;
-
-
+    width: 100%;
 }
