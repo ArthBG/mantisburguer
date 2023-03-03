@@ -1,43 +1,50 @@
-#ha1{
+#ha1 {
     font-family: Arial;
     text-align: center;
 }
-#pa1{
+
+#pa1 {
     text-align: center;
 }
-body{
+
+body {
     background-color: wheat;
     margin: 0px;
-   
+
 }
-article{
-    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
--moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-border-radius: 10px;
-height: 400px;
-border-left: 5px red;
-border-style: solid;
-border-color: red;
+
+article {
+    -webkit-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
+    -moz-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
+    box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
+    border-radius: 10px;
+    height: 400px;
+    border-left: 5px red;
+    border-style: solid;
+    border-color: red;
 }
-caixa{
+
+caixa {
     display: flex;
-    
-   
+
+
 }
-container{
+
+container {
     padding-left: 8px;
 }
-aside{
-   
+
+aside {
+
 
     display: flex;
     background-color: wheat;
     padding-left: 20px;
     padding-right: 20px;
-    
+
 }
-portas{
+
+portas {
     width: 33%;
     margin: 10px;
     border-radius: 10px;
@@ -46,50 +53,50 @@ portas{
     border-color: red;
 }
 
-#if1{
+#if1 {
     margin: 0%;
 }
-header{
+
+header {
     width: 100%;
     margin: 0;
     padding: 0%;
 }
-footer{
+
+footer {
     width: 100%;
-<<<<<<< HEAD
     margin: 0;
     bottom: 0;
     padding: 0;
 
 }
-#pa1{
- 
- border-radius: 10px;
-  margin-top: 10px;
+
+#pa1 {
+
+    border-radius: 10px;
+    margin-top: 10px;
 }
-#pa2{
+
+#pa2 {
     background-color: blueviolet;
 }
-#pa3{
+
+#pa3 {
     background-color: brown;
 }
 
-abertura{
-    -webkit-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-    -moz-box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
-    box-shadow: 11px 14px 23px -3px rgba(255,0,26,0.71);
+abertura {
+    -webkit-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
+    -moz-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
+    box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
     border-radius: 10px;
-<<<<<<< HEAD
-=======
+
 }
-#if1{
+
+#if1 {
     margin-bottom: -5;
->>>>>>> a796af583680b195e3543f0d88932d993c64a507
 }
-=======
-    
-}
-#if1{
+
+#if1 {
     margin-bottom: -5px;
 }
->>>>>>> 7087471a808cfec193ac1452d1c4ab8e0d14ab7f
