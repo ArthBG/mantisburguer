@@ -1,3 +1,7 @@
+.container{
+    padding: 20px;
+
+}
 body {
     text-align: center;
     background-color: wheat;
@@ -22,6 +26,9 @@ article {
     height: 300px;
     padding-top: 7px;
     background-color: wheat;
+    margin: 0;
+    text-align: center;
+
 
 }
 #h01{
@@ -30,14 +37,14 @@ article {
 
 #sec01 {
     background-color: wheat;
-    width: 1100px;
+    width: 100%;
     height: 200px;
-    margin: auto;
+    margin: 0;
     margin-top: 60px;
     border-left-style: solid;
     border-left-color: brown;
     border-left-width: 10px;
-    border-top-color:wheat
+    border-top-color:wheat;
 }
 
 section {
@@ -59,7 +66,7 @@ box-shadow: 15px 1px 15px 8px rgba(0,0,0,0.75);
 #art02 {
     margin-top: 60px;
     text-align: center;
-    height: 1200px;
+   padding-right: 60px;
     -webkit-box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
@@ -73,12 +80,20 @@ box-shadow: 15px 1px 15px 8px rgba(0,0,0,0.75);
 
 #div_title {
     display: flex;
+    margin: 0;    
+}
+
+section{
+    margin: 0;
+margin-bottom: 50px;    
+margin-left: 35px;
+margin-right: 15px;
+
 }
 
 a {
     text-decoration: none;
     color: black;
-
 
 }
 footer {
@@ -122,4 +137,9 @@ header {
 }
 #if2 {
     width: 100%;
+}
+
+h1{
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
