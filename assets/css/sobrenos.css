@@ -13,7 +13,6 @@ article {
     background-color: rgba(246, 187, 99, 0.763);
     border-radius: 15px;
     margin-bottom: 30px;
-    
 }
 
 #art01{
@@ -39,8 +38,9 @@ section {
     -moz-box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     box-shadow: 19px 17px 21px -5px rgba(0, 0, 0, 0.75);
     margin-top: 70px;
-    
-    
+    border:solid;
+    border-left-color:brown ;
+    border-left: 30px;
 }
 #art02{
     margin-top: 60px;
