@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-#pa1 {
+.pa1 {
     text-align: center;
 }
 
@@ -12,13 +12,17 @@ body {
     margin: 0;
 
 }
+p{
+    text-align: justify;
+    position: relative;
+}
 
 article {
     -webkit-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
     -moz-box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
     box-shadow: 11px 14px 23px -3px rgba(255, 0, 26, 0.71);
     border-radius: 10px;
-    height: 400px;
+    text-align: justify;
     border-left-style: solid;
     border-color: red;
     border-width: 10px;
@@ -89,4 +93,13 @@ abertura {
     margin-bottom: -5px;
     margin-top: 0;
     width: 99%;
+}
+@media (max-width: 600px){
+    aside{display: inline;};
+    p{display: flex;};
+    .ds{display: flex;}
+    .pa1{display: flex;
+    width: 92%;};
+    .p
+
 }
